@@ -1,0 +1,16 @@
+trend_rank,brand,product,platform,price_usd,list_price_usd,size_fl_oz,price_per_oz,asin,beauty_bsr,facial_wash_bsr,velocity_signal,confidence,observed_date
+1,Prequel,Gleanser,TikTok Shop,22.00,,13.5,1.63,,,"56.5K sold",High,2026-07-14
+2,CeraVe,Hydrating Facial Cleanser,Amazon,14.37,18.99,16,0.90,B01MSSDEPK,50,2,"70K+ bought past month",High,2026-07-14
+3,Vanicream,Gentle Facial Cleanser,Amazon,9.97,12.55,8,1.25,B00QY1XZ4W,38,3,"70K+ bought past month",High,2026-07-14
+4,La Roche-Posay,Toleriane Hydrating Gentle Cleanser,Amazon,19.97,,13.52,1.48,B01N7T7JKJ,87,6,"70K+ bought past month",High,2026-07-14
+5,BYOMA,Creamy Jelly Cleanser,Cross-platform,11.49,,5.91,1.94,,,,"25 sold on visible TikTok listing",Medium,2026-07-14
+6,Naturium,Niacinamide Cleansing Gelee 3%,TikTok Shop,17.90,21.00,7.1,2.52,,,"326 sold",High,2026-07-14
+7,KraveBeauty,Matcha Hemp Hydrating Cleanser,Amazon,16.00,,4.05,3.95,B0BZ9KMY3S,7562,135,"Amazon rank visible",High,2026-07-14
+8,BeautyStat,Universal Microbiome Barrier Balancing Cleanser,TikTok Shop,13.00,26.00,4,3.25,,,"24.8K shop sold; 148 reviews",High,2026-07-14
+9,Aveeno,Calm + Restore Nourishing Oat Cleanser,Cross-platform,11.99,,7.8,1.54,,,,"Editorial + marketplace visibility",Medium,2026-07-14
+10,ROUND LAB,1025 Dokdo Cleanser,Amazon,11.39,15.00,5.07,2.25,,,"1761 Amazon ratings",Medium,2026-07-14
+11,Skinfix,Barrier+ Ceramide + Ectoin Gentle Gel,Cross-platform,30.00,,6,5.00,,,,"Barrier-community chatter",Medium,2026-07-14
+12,ETUDE,SoonJung pH 6.5 Whip Cleanser,Amazon,13.00,,5.06,2.57,,,,"Current deal visibility",Medium,2026-07-14
+13,Cetaphil,Gentle Skin Cleanser,Amazon,14.47,,20,0.72,,,,"Mass evergreen",Medium,2026-07-14
+14,The Ordinary,Glycolipid Cream Cleanser,Cross-platform,12.50,,5,2.50,,,,"Strong search visibility",Medium,2026-07-14
+15,Eucerin,Hydrating Cleansing Gel,Amazon,10.99,,6.8,1.62,,,,"Derm/mass visibility",Medium,2026-07-14

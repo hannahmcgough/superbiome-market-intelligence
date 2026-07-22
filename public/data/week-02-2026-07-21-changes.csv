@@ -1,0 +1,13 @@
+step,brand,product,platform,metric,week_01,week_02,change,observed_date,source_url,confidence
+cleanse,CeraVe,Hydrating Facial Cleanser,Amazon,Beauty BSR,50,37,+13 positions,2026-07-22,https://www.amazon.com/dp/B01MSSDEPK,High
+cleanse,CeraVe,Hydrating Facial Cleanser,Amazon,price_usd,14.37,15.97,+11.1%,2026-07-22,https://www.amazon.com/dp/B01MSSDEPK,High
+cleanse,Vanicream,Gentle Facial Cleanser,Amazon,Beauty BSR,38,29,+9 positions,2026-07-22,https://www.amazon.com/dp/B00QY1XZ4W,High
+cleanse,La Roche-Posay,Toleriane Hydrating Gentle Cleanser,Amazon,Beauty BSR,87,134,-47 positions,2026-07-22,https://www.amazon.com/dp/B01N7T7JKJ,High
+cleanse,KraveBeauty,Matcha Hemp Hydrating Cleanser,Amazon,Beauty BSR,7562,8095,-533 positions,2026-07-22,https://www.amazon.com/dp/B0BZ9KMY3S,High
+cleanse,BeautyStat,Universal Microbiome Barrier Balancing Cleanser,TikTok Shop,product sold,,194,new comparable baseline,2026-07-22,https://shop.tiktok.com/us/pdp/cleanser-beautystat-universal-microbiome-barrier-150ml-hydrates-protects/1729414753674367088,High
+treat,Murad,Biome-Balancing Clear & Prevent,TikTok Shop,product sold,,1171,new comparable baseline,2026-07-22,https://shop.tiktok.com/us/pdp/biome-balancing-acne-serum-by-murad-clears-breakouts-fast-non-comedogenic-formula-supports-healthy-s/1731001908607488040,High
+treat,Roe Wellness,Probiotic Power Serum + Biome Barrier Cream Set,TikTok Shop,product sold,,18,new comparable baseline,2026-07-22,https://shop.tiktok.com/us/pdp/probiotic-power-serum-biome-barrier-cream-set-by-roe-wellness-for-kids/1729943833416536620,High
+hydrate,COSRX,Ceramide Skin Barrier Moisturizer,TikTok Shop,product sold,4500,7948,+3448,2026-07-22,https://shop.tiktok.com/us/pdp/moisturizer-cosrx-the-ceramide-skin-barrier-80ml-for-sensitive-dry-skin/1730843567728136363,High
+watchlist,PURCELL,PIXCELL BIOM After Laser Rebooting Cream,TikTok Shop,product sold,,64,new entrant,2026-07-22,https://shop.tiktok.com/us/pdp/purcell-pixcell-biom-after-laser-rebooting-cream-50ml/1732274285196055212,High
+watchlist,Allies of Skin,Molecular Saviour Mist,TikTok Shop,product sold,,178,new entrant,2026-07-22,https://shop.tiktok.com/us/pdp/molecular-saviour-mist-by-allies-of-skin-niacinamide-probiotics-hydrating-spray-for-glowing-skin/1731000766450733685,High
+watchlist,Abib,Rice Probiotics Overnight Mask,TikTok Shop,listing visibility,,visible,new entrant,2026-07-22,https://shop.tiktok.com/us/pdp/abib-rice-probiotic-overnight-mask-nourishes-strengthens-skin-barrier/1731867792772665440,Medium

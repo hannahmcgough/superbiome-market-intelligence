@@ -1,0 +1,8 @@
+week,checked_at,step,brand,product,metric,week_02_value,week_04_value,change,source_confidence
+04,2026-08-05,cleanse,CeraVe,Hydrating Facial Cleanser,Amazon Beauty BSR,37,50,-13 positions,High
+04,2026-08-05,cleanse,Vanicream,Gentle Facial Cleanser,Amazon Beauty BSR,29,32,-3 positions,High
+04,2026-08-05,cleanse,La Roche-Posay,Toleriane Hydrating Gentle,Amazon Beauty BSR,134,119,+15 positions,High
+04,2026-08-05,hydrate,Tower 28,SOS Barrier Recovery Cream,TikTok Shop visible sold,257,488,+231,High
+04,2026-08-05,hydrate,rhode,barrier restore cream,TikTok Shop visible sold,,3500,new observation,High
+04,2026-08-05,treat,KraveBeauty,Barrier Builder Duo,TikTok Shop visible sold,,1300,new observation,High
+04,2026-08-05,hydrate,REMEDY,Light Gel Barrier Repairing Moisturizer,TikTok Shop visible sold,,878,new observation,High
